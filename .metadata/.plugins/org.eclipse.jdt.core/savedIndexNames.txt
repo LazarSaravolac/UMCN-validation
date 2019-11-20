@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+C:\Users\Lazar\Desktop\JmbgValidacija\.metadata\.plugins\org.eclipse.jdt.core
+540171989.index
+2421169693.index
+2873648925.index
+1356070615.index
+1179458919.index
+4149947402.index
+4124305721.index
+1394261410.index
+2036338987.index
+3671472310.index
+2579196702.index
+3482975134.index
+2148412222.index
+738014856.index
+3052398380.index
+717710100.index
+3845476319.index
+3094098549.index
+3537773814.index
