@@ -77,10 +77,15 @@ public class JmbgValidacija {
 		j=nizBrojeva[10];
 		kk=nizBrojeva[11];
 		l=11-((7*(a+e)+6*(b+zh)+5*(v+z)+4*(g+i)+3*(d+j)+2*(dj+kk))%11);
+		
+		if((l<10)&&(l>0)) {			
 		if(l!=k) {
 			System.out.println("Nevalidan jmbg");
 			sc.close();
 			return;
+		}
+		}else{
+			l=0;
 		}
 		String nazivMeseca=PomocnaKlasa.nazivMeseca(mesec);
 		long pravaGodina=PomocnaKlasa.proveraPraveGodine(godina);
